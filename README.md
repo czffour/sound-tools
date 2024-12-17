@@ -52,6 +52,7 @@ pnpm dev
 
 # 构建应用
 pnpm build
+pnpm electron:build
 ```
 
 ## 📖 使用指南
